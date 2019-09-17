@@ -1,0 +1,6 @@
+//I just want to finish this homework
+#include<stdio.h>
+#include<stdlib.h>
+void main(){
+  printf("helloworld");
+  }
